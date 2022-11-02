@@ -22,3 +22,10 @@
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 replay_pid*
+project.discordbot
+package.json
+package-lock.json
+node_modules/xtend/LICENSE
+node_modules/xtend/mutable.js
+node_modules/xtend/README.md
+node_modules/xtend/test.js
